@@ -1,0 +1,6 @@
+{
+    "name": "toggle",
+    "main": "Toggle.tsx",
+    "version": "0.1.0",
+    "private": true
+}

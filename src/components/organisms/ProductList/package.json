@@ -1,0 +1,6 @@
+{
+    "name": "product-list",
+    "main": "ProductList.tsx",
+    "version": "0.1.0",
+    "private": true
+}

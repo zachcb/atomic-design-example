@@ -1,0 +1,6 @@
+{
+    "name": "marketplace-intro",
+    "main": "Intro.tsx",
+    "version": "0.1.0",
+    "private": true
+}

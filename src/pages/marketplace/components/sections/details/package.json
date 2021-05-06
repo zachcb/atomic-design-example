@@ -1,0 +1,6 @@
+{
+    "name": "marketplate-details",
+    "main": "Details.tsx",
+    "version": "0.1.0",
+    "private": true
+}
